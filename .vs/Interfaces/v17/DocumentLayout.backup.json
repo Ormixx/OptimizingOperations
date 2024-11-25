@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u044B \u0438 \u0441\u043A\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\Int\\Interfaces\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0F57226C-8EC7-4E4F-8457-79DB100ECD87}|Interfaces\\Interfaces.csproj|c:\\\u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u044B \u0438 \u0441\u043A\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\int\\interfaces\\interfaces\\exampls\\orderedarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F57226C-8EC7-4E4F-8457-79DB100ECD87}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\exampls\\orderedarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0F57226C-8EC7-4E4F-8457-79DB100ECD87}|Interfaces\\Interfaces.csproj|c:\\\u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u044B \u0438 \u0441\u043A\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\int\\interfaces\\interfaces\\exampls\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F57226C-8EC7-4E4F-8457-79DB100ECD87}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\exampls\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F57226C-8EC7-4E4F-8457-79DB100ECD87}|Interfaces\\Interfaces.csproj|c:\\\u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u044B \u0438 \u0441\u043A\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\int\\interfaces\\interfaces\\exampls\\orderedarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F57226C-8EC7-4E4F-8457-79DB100ECD87}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\exampls\\orderedarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F57226C-8EC7-4E4F-8457-79DB100ECD87}|Interfaces\\Interfaces.csproj|c:\\\u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u044B \u0438 \u0441\u043A\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\int\\interfaces\\interfaces\\exampls\\sortablelongarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F57226C-8EC7-4E4F-8457-79DB100ECD87}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\exampls\\sortablelongarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F57226C-8EC7-4E4F-8457-79DB100ECD87}|Interfaces\\Interfaces.csproj|c:\\\u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u044B \u0438 \u0441\u043A\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\int\\interfaces\\interfaces\\exampls\\parentlongarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F57226C-8EC7-4E4F-8457-79DB100ECD87}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\exampls\\parentlongarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F57226C-8EC7-4E4F-8457-79DB100ECD87}|Interfaces\\Interfaces.csproj|c:\\\u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u044B \u0438 \u0441\u043A\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\int\\interfaces\\interfaces\\exampls\\commonarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0F57226C-8EC7-4E4F-8457-79DB100ECD87}|Interfaces\\Interfaces.csproj|c:\\\u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u044B \u0438 \u0441\u043A\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\int\\interfaces\\interfaces\\exampls\\arrayinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F57226C-8EC7-4E4F-8457-79DB100ECD87}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\exampls\\arrayinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F57226C-8EC7-4E4F-8457-79DB100ECD87}|Interfaces\\Interfaces.csproj|c:\\\u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u044B \u0438 \u0441\u043A\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\int\\interfaces\\interfaces\\exampls\\parentlongarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F57226C-8EC7-4E4F-8457-79DB100ECD87}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\exampls\\parentlongarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,33 +42,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "SortableLongArray.cs",
+              "DocumentMoniker": "C:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u044B \u0438 \u0441\u043A\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\Int\\Interfaces\\Interfaces\\Exampls\\SortableLongArray.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Exampls\\SortableLongArray.cs",
+              "ToolTip": "C:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u044B \u0438 \u0441\u043A\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\Int\\Interfaces\\Interfaces\\Exampls\\SortableLongArray.cs",
+              "RelativeToolTip": "Interfaces\\Exampls\\SortableLongArray.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAwFoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:09:32.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "OrderedArray.cs",
               "DocumentMoniker": "C:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u044B \u0438 \u0441\u043A\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\Int\\Interfaces\\Interfaces\\Exampls\\OrderedArray.cs",
               "RelativeDocumentMoniker": "Interfaces\\Exampls\\OrderedArray.cs",
               "ToolTip": "C:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u044B \u0438 \u0441\u043A\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\Int\\Interfaces\\Interfaces\\Exampls\\OrderedArray.cs",
               "RelativeToolTip": "Interfaces\\Exampls\\OrderedArray.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAuwGkAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T18:17:52.213Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u044B \u0438 \u0441\u043A\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\Int\\Interfaces\\Interfaces\\Exampls\\Program.cs",
               "RelativeDocumentMoniker": "Interfaces\\Exampls\\Program.cs",
               "ToolTip": "C:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u044B \u0438 \u0441\u043A\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\Int\\Interfaces\\Interfaces\\Exampls\\Program.cs",
               "RelativeToolTip": "Interfaces\\Exampls\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwDQAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T18:02:18.4Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T18:02:18.4Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "CommonArray.cs",
               "DocumentMoniker": "C:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u044B \u0438 \u0441\u043A\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\Int\\Interfaces\\Interfaces\\Exampls\\CommonArray.cs",
               "RelativeDocumentMoniker": "Interfaces\\Exampls\\CommonArray.cs",
@@ -72,25 +87,23 @@
               "RelativeToolTip": "Interfaces\\Exampls\\CommonArray.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T09:37:54.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T09:37:54.19Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ParentLongArray.cs",
               "DocumentMoniker": "C:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u044B \u0438 \u0441\u043A\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\Int\\Interfaces\\Interfaces\\Exampls\\ParentLongArray.cs",
               "RelativeDocumentMoniker": "Interfaces\\Exampls\\ParentLongArray.cs",
               "ToolTip": "C:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u044B \u0438 \u0441\u043A\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\Int\\Interfaces\\Interfaces\\Exampls\\ParentLongArray.cs",
               "RelativeToolTip": "Interfaces\\Exampls\\ParentLongArray.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T18:11:59.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T18:11:59.083Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ArrayInterface.cs",
               "DocumentMoniker": "C:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u044B \u0438 \u0441\u043A\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\Int\\Interfaces\\Interfaces\\Exampls\\ArrayInterface.cs",
               "RelativeDocumentMoniker": "Interfaces\\Exampls\\ArrayInterface.cs",
@@ -98,8 +111,7 @@
               "RelativeToolTip": "Interfaces\\Exampls\\ArrayInterface.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T18:08:18.772Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T18:08:18.772Z"
             }
           ]
         }

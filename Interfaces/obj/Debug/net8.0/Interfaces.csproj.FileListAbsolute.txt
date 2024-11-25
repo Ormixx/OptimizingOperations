@@ -12,3 +12,4 @@ C:\Алгоритмы и сктруктуры данных\Int\Interfaces\Interf
 C:\Алгоритмы и сктруктуры данных\Int\Interfaces\Interfaces\obj\Debug\net8.0\Interfaces.pdb
 C:\Алгоритмы и сктруктуры данных\Int\Interfaces\Interfaces\obj\Debug\net8.0\Interfaces.genruntimeconfig.cache
 C:\Алгоритмы и сктруктуры данных\Int\Interfaces\Interfaces\obj\Debug\net8.0\ref\Interfaces.dll
+C:\Алгоритмы и сктруктуры данных\Int\Interfaces\Interfaces\obj\Debug\net8.0\Interfaces.sourcelink.json
